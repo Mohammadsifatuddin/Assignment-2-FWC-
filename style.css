@@ -12,9 +12,8 @@ body{
                             margin-top: 20px;
                             margin-left: 22%; 
                             margin-right: 25%;
-                            
-                     
-}
+                            }
+
 .lastitem{
                         padding-left: 50px;
                         padding-top: 50px;
@@ -34,7 +33,44 @@ body{
                                                 font-size: 40px;
                                                 color: white;
                         }
+                        h2{
+                                text-align: center;
+                        }
                         .doman{
                                                 color: white;
                                                 text-overflow: ellipsis;
                         }
+                        /* 2nd scction */
+                .decoration{
+                        display: block;  }
+                        .ndsection{ 
+                           border-radius: 10px;
+                        border: 1px solid black;
+                        width: 300px;
+                        height: 200px;
+                        display: flex;
+                        margin-top: 20px;
+                        margin-left: 22%; 
+                        margin-right: 25%;
+                        background-color: black ; 
+                      
+                        }
+                        
+                        .UM{
+                                                padding-left: 30px ;
+                                                padding-right: 10px;
+                                                padding-top: 10px;
+                                                padding-bottom: 10px;
+                                                border: 1px solid white;
+                                                color: white;
+                                                  width: 100x;
+                                                  height: 1px;
+                        }
+                        .imgtag{
+                                     margin-left: 10px;   
+                                     padding-left: 300px;        
+                        }
+                        .lastconcept{
+                                display: flex;
+                             
+                                    }               
