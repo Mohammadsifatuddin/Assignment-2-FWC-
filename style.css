@@ -1,0 +1,40 @@
+body{
+                        font-family: 'Poppins', sans-serif;
+}
+.firstsection{
+                        display: flex;
+                        background-color: black;
+                        border: 1px solid white;
+                        width: 800px;
+                        height: 400px;
+                        border-radius: 20px;
+                        justify-content: center;
+                            margin-top: 20px;
+                            margin-left: 22%; 
+                            margin-right: 25%;
+                            
+                     
+}
+.lastitem{
+                        padding-left: 50px;
+                        padding-top: 50px;
+}
+.solid{
+                        background-color: red;
+                        border: 1px solid white;
+                        border-radius: 5px;
+
+}
+.pic{
+                padding: 20px 0px;
+                       margin-top: 40PX;}
+
+
+                        h1{
+                                                font-size: 40px;
+                                                color: white;
+                        }
+                        .doman{
+                                                color: white;
+                                                text-overflow: ellipsis;
+                        }
