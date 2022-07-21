@@ -159,4 +159,7 @@ body{
                                                                          .two-part-join{
                                                                             display: flex;
                                                                          }
-                                                
+              @media  only screen and (max-width:688px)
+               {
+                
+              }                                  

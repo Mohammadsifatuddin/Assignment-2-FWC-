@@ -7,10 +7,29 @@
 .transfer{
                      
 border: 1px solid black;
-width: 200px;
+width: 300px;
 height: 250px;
 border-radius: 10PX;
-background-color: white;
-/* margin-left: 30px;
-margin-top: 30px */
+background-color: rgb(19, 184, 27);
+margin-left: 30px;
+margin-top: 30px;
+ color: black;
+}
+.trs{
+                        margin-left: 33px;
+                        margin-top: 30px;
+}
+.trs1{
+                        font-size: 20px;
+}
+.trs2{
+                      
+}
+.flexbox{
+                        display: grid;
+                        grid-template-columns: repeat(2,1fr);
+
+}
+.sw{
+                        display: flex;
 }
