@@ -35,42 +35,128 @@ body{
                         }
                         h2{
                                 text-align: center;
+                                color: white;
                         }
                         .doman{
                                                 color: white;
                                                 text-overflow: ellipsis;
                         }
                         /* 2nd scction */
-                .decoration{
-                        display: block;  }
-                        .ndsection{ 
-                           border-radius: 10px;
-                        border: 1px solid black;
-                        width: 300px;
-                        height: 200px;
-                        display: flex;
-                        margin-top: 20px;
-                        margin-left: 22%; 
-                        margin-right: 25%;
-                        background-color: black ; 
-                      
-                        }
                         
-                        .UM{
-                                                padding-left: 30px ;
-                                                padding-right: 10px;
-                                                padding-top: 10px;
-                                                padding-bottom: 10px;
-                                                border: 1px solid white;
-                                                color: white;
-                                                  width: 100x;
-                                                  height: 1px;
-                        }
-                        .imgtag{
-                                     margin-left: 10px;   
-                                     padding-left: 300px;        
-                        }
+                        
+
+                             /* footer section */
                         .lastconcept{
                                 display: flex;
+                                padding-left: 300px;
+                                color: white;
+                               
                              
-                                    }               
+                                    } 
+                                    .us5 {
+                                        padding-left: 25px;
+                                    }              
+                                    .us4 {
+                                        padding-left: 25px;
+                                    }              
+                                    .us3 {
+                                        padding-left: 25px;
+                                    }              
+                                    .us2 {
+                                        padding-left: 25px;
+                                    }              
+                                    .us1 {
+                                        padding-left: 25px;
+                                    }              
+                                    .us {
+                                        padding-left: 25px;
+                                    } 
+                                    footer{
+                                        background-color: black;
+                                } 
+                                    .hrtag{
+                                       width: 80%;
+                                       display: block;
+                                    }
+                                    .socials{
+                                           margin-inline: 600px;
+                                    }
+                                    .ssc{
+                                       margin-left: 12px;
+                                       color: rgb(13, 117, 209);
+                                    }
+                                    /* 2nd section */
+                                    .powerplay{      display: block;
+                                                        text-decoration: none;
+                                                        text-align: center;
+                                                        padding-top: 10px;
+                                                        padding-bottom: 10px;
+                                                        border: 1px solid black;
+                                                          width:200PX ;
+                                                          height: 20PX;
+                                                         margin: 20PX 10PX 10PX 10PX ;
+                                                         border-radius: 10px;
+                                                         background-color: white;
+                                                         color: black; }
+                                                         #Spacial{
+                                                                color: white;
+                                                                background-color: red;
+                                                         }
+                                                        .secondsection{
+                                                              
+                                                                border: 1px solid black;
+                                                                width: 229px;
+                                                                height: 200px;
+                                                                border-radius: 10PX;
+                                                                background-color: black;
+                                                                margin-left: 300px; 
+                                                                margin-top: 30px;
+                                                        
+                                                                
+                                                        }
+                                                        .transfersection{
+                                                                border: 1px solid black;
+                                                                width:300px;
+                                                                height: 350px;
+                                                                border-radius: 10PX;
+                                                                background-color: white;
+                                                              
+                                                                margin-left: 30px; 
+                                                                 margin-top: 30px;
+                                                              
+                                                        }
+                                                        .pic2{
+                                                               width:300px ;
+                                                        }
+                                                        .trn{
+                                                                border: 1px solid black;
+                                                                width: 80px;
+                                                                margin-left: 10px;
+                                                                border-radius: 5px;
+                                                                padding-left: 10px;
+                                                                margin-right: 100px ;
+                                                        }
+                                                        .trn1{
+                                                                margin-left:10px ;
+                                                        }
+                                                        .trn2{
+                                                              margin-left: 10px;
+                                                        }
+                                                        .top{
+                                                           display: grid;
+                                                           grid-template-columns: repeat(2,1fr);
+                                                          
+                                                        }
+                                                           .padding{
+                                                            border: 1px solid black;
+                                                                width:300px;
+                                                                height: 350px;
+                                                                border-radius: 10PX;
+                                                                margin-top: 30px;
+                                                                margin-left: 30px;
+
+                                                                         }
+                                                                         .two-part-join{
+                                                                            display: flex;
+                                                                         }
+                                                
